@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JQueryDatatable", "JQueryDatatable\JQueryDatatable.csproj", "{209F0D75-BD58-44BF-9E78-F9D450954A86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{209F0D75-BD58-44BF-9E78-F9D450954A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209F0D75-BD58-44BF-9E78-F9D450954A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209F0D75-BD58-44BF-9E78-F9D450954A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209F0D75-BD58-44BF-9E78-F9D450954A86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B18719-DCDA-4B6A-8874-EE8A1D5405C2}
+	EndGlobalSection
+EndGlobal
