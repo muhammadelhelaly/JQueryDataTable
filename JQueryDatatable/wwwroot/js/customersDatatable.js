@@ -1,5 +1,6 @@
 ﻿$(document).ready(function () {
     $('#Customers').dataTable({
+        "processing": true,
         "serverSide": true,
         "filter": true,
         "ajax": {
